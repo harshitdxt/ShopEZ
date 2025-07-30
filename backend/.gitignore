@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# dotenv
+.env
+
+# logs
+logs/
+*.log
+
+# runtime files
+*.pid
+
+# IDE settings
+.vscode/
