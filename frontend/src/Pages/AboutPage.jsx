@@ -14,7 +14,7 @@ function AboutPage() {
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl sm:text-5xl font-bold text-gray-800 mb-6">About Us</h1>
         <p className="text-lg text-gray-600 leading-relaxed mb-10">
-          Welcome to <span className="font-semibold text-green-600">ShopVerse</span> — your one-stop destination for trendy fashion, quality products, and seamless shopping experiences. We believe shopping should be simple, fun, and tailored to your style.
+          Welcome to <span className="font-semibold text-green-600">ShopEZ</span> — your one-stop destination for trendy fashion, quality products, and seamless shopping experiences. We believe shopping should be simple, fun, and tailored to your style.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 text-left">

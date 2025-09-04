@@ -15,7 +15,7 @@ function ContactUsPage() {
           <div className="space-y-4 text-gray-700">
             <div>
               <h4 className="font-semibold text-gray-800">📍 Address:</h4>
-              <p>123 ShopVerse Street, Mumbai, India</p>
+              <p>123 ShopEZ Street, Mumbai, India</p>
             </div>
 
             <div>
@@ -25,7 +25,7 @@ function ContactUsPage() {
 
             <div>
               <h4 className="font-semibold text-gray-800">📧 Email:</h4>
-              <p>support@shopverse.com</p>
+              <p>support@ShopEZ.com</p>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ function ContactUsPage() {
 
             <button
               type="submit"
-              className="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700 transition duration-300"
+              className="bg-green-500 text-black px-6 py-2 rounded hover:bg-green-700 transition duration-300"
             >
               Submit
             </button>
